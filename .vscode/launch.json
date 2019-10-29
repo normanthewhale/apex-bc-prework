@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "ZooApp.App",
+            "projectName": "apex-bc-prework_849d6025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "apex-bc-prework_849d6025"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Zoo",
             "request": "launch",
             "mainClass": "Zoo"
